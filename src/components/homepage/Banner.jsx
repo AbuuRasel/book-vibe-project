@@ -3,7 +3,7 @@ import book from '../../assets/pngwing_1-removebg-preview.png'
 
 const Homepage = () => {
   return (
-    <div>
+    <div className='p-10'>
       <div className="hero container mx-auto bg-[#f7f7f7] min-h-[70vh] rounded-4xl mt-10">
         <div className="hero-content flex-col lg:flex-row-reverse w-full justify-around">
           <img
